@@ -1,14 +1,13 @@
 public async Task<IList<Funcionario>> GetAllFuncionario()
 {
-		var query = "Funcionario"
+		var query = "QUERY DE SELECT"
 }
-
 public async Task<IList<Veiculos>> GetAllVeiculos()
 {
-		var query = "Veiculos"
+		var query = "QUERY DE SELECT"
 }
 
 public async Task<IList<Salarios>> GetAllSalarios()
 {
-		var query = "Salarios"
+		var query = "QUERY DE SELECT"
 }
